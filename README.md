@@ -1,4 +1,4 @@
-# 🧬 DataSynth AI
+﻿# 🧬 DataSynth AI
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
@@ -164,7 +164,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 📄 License
 
-MIT License © m-shamim09
+MIT License © agentic-saim09
 
 See [LICENSE](LICENSE) for details.
 
@@ -182,8 +182,8 @@ See [LICENSE](LICENSE) for details.
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
